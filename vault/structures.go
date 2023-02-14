@@ -5,7 +5,7 @@ package vault
 
 import (
 	"encoding/json"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 	"time"
 
