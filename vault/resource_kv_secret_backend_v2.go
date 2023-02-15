@@ -5,7 +5,7 @@ package vault
 
 import (
 	"context"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 	"time"
 

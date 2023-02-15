@@ -6,7 +6,7 @@ package vault
 import (
 	"context"
 	"encoding/json"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strconv"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"

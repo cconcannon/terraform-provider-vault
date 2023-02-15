@@ -6,7 +6,7 @@ package vault
 import (
 	"encoding/json"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"regexp"
 	"testing"
 
